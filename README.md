@@ -1,1 +1,1 @@
-# drf-graphql
+# django-graphql-example
